@@ -1,0 +1,2 @@
+1. Autoencoder
+Objective: Denoise a dataset using an encoder-decoder architecture. Output: MSE: 0.003  Key Highlights: Designed an autoencoder to remove noise from the data. Utilized MLFlow for hyperparameter tuning with a random search strategy to optimize learning rates, layer configurations, and dropout rates. Achieved significant noise reduction and clean data reconstruction. Tools: Python, TensorFlow/Keras, MLFlow.
